@@ -1,0 +1,84 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+	text-align: center;
+	background-image: url(../images/naslovna.jpg);
+	color: white;
+}
+.btn-lg {
+	font-size: 36px;
+	margin-bottom: 30px;
+}
+.jumbotron h1 {
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+.jumbotron p {
+	margin-bottom: 30px;
+	font-weight: 100px;
+	padding: 0 50px;
+}
+.emphasis {
+	color: red;
+	font-size: 20px;
+}
+h2{
+	text-align: center;
+	color: red;
+	text-transform: uppercase;
+}
+.homepage {
+	text-align: center;
+}
+.homepage h3 {
+	font-size: 26px;
+	text-transform: uppercase;
+	color: red;
+}
+.homepage p {
+	font-size: 20px;
+	font-weight: 300px;
+}
+.homepage a {
+	color: red;
+}
+.homepage hr {
+	width: 160px;
+	border-color: red;
+	margin-top: 16px;
+}
+.homepage a:hover {
+     color: red;
+     opacity: .8;
+
+}
+#get-involved {
+	background-color: #f5f5f5;
+}
+.homepage {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+footer {
+	padding-bottom: 30px;
+	padding-top: 150px;
+	background-color: #f74c3c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
