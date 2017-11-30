@@ -1,2 +1,2 @@
 # onemillionlines
-sajt
+sajt koji je radjen kao vezba
